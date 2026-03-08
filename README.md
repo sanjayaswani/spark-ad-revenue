@@ -25,7 +25,7 @@ ad_revenue_pipeline/
   transformations.py            # aggregations on the joined data
   reader.py                     # JSON reader with corrupt-row handling
 data/                           # sample JSON inputs
-.mise.toml                      # local Python setup (optional)
+.mise.toml                      # local Python setup
 requirements.txt                # Python deps
 ```
 
